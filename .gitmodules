@@ -1,0 +1,3 @@
+[submodule "github/es-git/es-git"]
+	path = github/es-git/es-git
+	url = git@github.com:es-git/es-git.git
